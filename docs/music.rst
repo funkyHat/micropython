@@ -116,7 +116,7 @@ Built in Melodies
 For the purposes of education and entertainment, the module contains several
 example tunes that are expressed as Python lists. They can be used like this::
 
-    >>> from microbit import music
+    >>> import music
     >>> music.play(music.NYAN)
 
 All the tunes are either out of copyright, composed by Nicholas H.Tollervey and
